@@ -1,0 +1,40 @@
+using System;
+
+[Serializable]
+public enum MemoID
+{
+	Memo_S105_ID01_BestPal = 10501,
+	Memo_S105_ID02_AlanGray = 10502,
+	Memo_S105_ID03_TellyWester = 10503,
+	Memo_S105_ID04_SammyLawrence = 10504,
+	Memo_S105_ID05_LostOne = 10505,
+	Memo_S106_ID01_ShawnFlynn = 10601,
+	Memo_S106_ID02_LostOne = 10602,
+	Memo_S106_ID03_BestPal = 10603,
+	Memo_S106_ID04_LostOne = 10604,
+	Memo_S108_ID01_SallyNewt = 10801,
+	Memo_S108_ID02_LostOne = 10802,
+	Memo_S108_ID03_HudsonDoyle = 10803,
+	Memo_S108_ID04_ChefBuck = 10804,
+	Memo_S108_ID05_HudsonDoyle = 10805,
+	Memo_S109_ID01_ThomasConnor = 10901,
+	Memo_S110_ID01_LostOne = 11001,
+	Memo_S110_ID02_LostOne = 11002,
+	Memo_S111_ID01_PhilClark = 11101,
+	Memo_S112_ID01_WallyFranks = 11201,
+	Memo_S113_ID01_MuncieDunn = 11301,
+	Memo_S113_ID02_LostOne = 11302,
+	Memo_S114_ID01_HudsonDoyle = 11401,
+	Memo_S114_ID02_LostOne = 11402,
+	Memo_S117_ID01_BestPal = 11701,
+	Memo_S117_ID02_BestPal = 11702,
+	Memo_S117_ID03_MuncieDunn = 11703,
+	Memo_S117_ID04_LostOne = 11704,
+	Memo_S119_ID01_EugeneLloyd = 11901,
+	Memo_S122_ID01_Steve = 12201,
+	Memo_S122_ID02_JoeyDrew = 12202,
+	Memo_S123_ID01_KittyThompson = 12301,
+	Memo_S125_ID01_AliceAngel = 12501,
+	Memo_S126_ID01_AFriend = 12601,
+	Memo_S126_ID02_SammyLawrence = 12602
+}

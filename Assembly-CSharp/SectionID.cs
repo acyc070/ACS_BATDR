@@ -1,0 +1,40 @@
+using System;
+
+[Serializable]
+public enum SectionID
+{
+	NONE = 0,
+	Section_S101_JoeyDrewApartment = 101,
+	Section_S102_ArchGateOffices = 102,
+	Section_S103_JoeyDrewExhibit = 103,
+	Section_S104_BackOffice = 104,
+	Section_S105_WelcomeHome = 105,
+	Section_S106_HeavenlyToys = 106,
+	Section_S107_FactoryAccess = 107,
+	Section_S108_ArtistAtrium = 108,
+	Section_S109_AnimationDepartment = 109,
+	Section_S110_AnimationAlley = 110,
+	Section_S111_Pipeways = 111,
+	Section_S112_LockerRoom = 112,
+	Section_S113_ArtistsRest = 113,
+	Section_S114_Elevators = 114,
+	Section_S115_WidowChamber = 115,
+	Section_S116_SewerEntrance = 116,
+	Section_S117_Sewers = 117,
+	Section_S118_CityEntrance = 118,
+	Section_S119_City = 119,
+	Section_S120_OldStudio = 120,
+	Section_S121_GentWorkshopEntrance = 121,
+	Section_S122_GentWorkshop = 122,
+	Section_S123_Subway = 123,
+	Section_S124_Retreat = 124,
+	Section_S125_AliceAngel = 125,
+	Section_S126_NorthWingEntrance = 126,
+	Section_S127_SouthWingEntrance = 127,
+	Section_S128_Laboratory = 128,
+	Section_S129_ShipAhoy = 129,
+	Section_S130_BeastBendy = 130,
+	Section_S131_Insane = 131,
+	Section_S132_JoeyDrewApartment = 132,
+	Section_S133_Archives = 133
+}

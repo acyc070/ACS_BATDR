@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.PhysicsModule\UnityEngine.PhysicsModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.XRModule\UnityEngine.XRModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.AudioModule\UnityEngine.AudioModule.csproj" />
+    <ProjectReference Include="..\DOTween\DOTween.csproj" />
+    <ProjectReference Include="..\UnityEngine.AnimationModule\UnityEngine.AnimationModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.ParticleSystemModule\UnityEngine.ParticleSystemModule.csproj" />
+    <ProjectReference Include="..\Unity.Postprocessing.Runtime\Unity.Postprocessing.Runtime.csproj" />
+    <ProjectReference Include="..\UnityEngine.AIModule\UnityEngine.AIModule.csproj" />
+    <ProjectReference Include="..\InControl\InControl.csproj" />
+    <ProjectReference Include="..\UnityEngine.DirectorModule\UnityEngine.DirectorModule.csproj" />
+    <ProjectReference Include="..\Unity.Timeline\Unity.Timeline.csproj" />
+    <ProjectReference Include="..\UnityEngine.VideoModule\UnityEngine.VideoModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.AssetBundleModule\UnityEngine.AssetBundleModule.csproj" />
+    <ProjectReference Include="..\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj" />
+    <ProjectReference Include="..\UnityEngine.UIModule\UnityEngine.UIModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.UI\UnityEngine.UI.csproj" />
+    <ProjectReference Include="..\Unity.TextMeshPro\Unity.TextMeshPro.csproj" />
+    <ProjectReference Include="..\UnityEngine.UnityWebRequestModule\UnityEngine.UnityWebRequestModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.TextRenderingModule\UnityEngine.TextRenderingModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.Physics2DModule\UnityEngine.Physics2DModule.csproj" />
+    <ProjectReference Include="..\DOTweenPro\DOTweenPro.csproj" />
+    <ProjectReference Include="..\UnityEngine.VRModule\UnityEngine.VRModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.SubsystemsModule\UnityEngine.SubsystemsModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.InputLegacyModule\UnityEngine.InputLegacyModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.JSONSerializeModule\UnityEngine.JSONSerializeModule.csproj" />
+    <ProjectReference Include="..\UnityEngine.ImageConversionModule\UnityEngine.ImageConversionModule.csproj" />
+  </ItemGroup>
+</Project>
